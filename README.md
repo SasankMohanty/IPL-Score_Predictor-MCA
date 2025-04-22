@@ -35,6 +35,7 @@ wicket_last_5 - wickets in last 5 overs
 stricker - batsman playing as main 1
 non-striker - batsman playing as runner up - not main 0
 total - total score (target variable)
+
 Streamlit App:
 
 ![ipl_score_predictor](https://github.com/user-attachments/assets/efd66341-40db-48d1-bd13-b45ac34997c1)
